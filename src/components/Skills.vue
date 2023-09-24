@@ -6,6 +6,14 @@
       <div class="w-2/3">
         <ul class="space-y-2">
           <li class="space-x-2">
+            <span class="font-semibold">SIEM</span>
+            <span class="font-light italic">Splunk, Devo, Google Chronicle, Azure Sentinel</span>
+          </li>
+          <li class="space-x-2">
+            <span class="font-semibold">EDR</span>
+            <span class="font-light italic">CrowdStrike Falcon, SentinelOne, Microsoft Defender</span>
+          </li>
+          <li class="space-x-2">
             <span class="font-semibold">Web Development</span>
             <span class="font-light italic">VueJS, NuxtJS, TypeScript, NodeJS, NestJS</span>
           </li>
@@ -20,10 +28,6 @@
           <li class="space-x-2">
             <span class="font-semibold">Scripting</span>
             <span class="font-light italic">Powershell, Python</span>
-          </li>
-          <li class="space-x-2">
-            <span class="font-semibold">Cybersecurity</span>
-            <span class="font-light italic">BurpSuite, Nmap, Nessus, Gobuster, Metasploit</span>
           </li>
         </ul>
       </div>

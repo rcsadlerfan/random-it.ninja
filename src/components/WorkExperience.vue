@@ -7,10 +7,18 @@
         <div class="space-y-6">
           <div>
             <div class="flex items-center space-x-2">
+              <span class="text-lg font-semibold">Security Architect</span>
+              <span class="italic">ReliaQuest</span>
+            </div>
+            <p class="font-thin">May 2023 - Present</p>
+            <p class="italic">Consult with customers to drive cybersecurity goals and iniatives, provide recommendations, and assist with the DIR process</p>
+          </div>
+          <div>
+            <div class="flex items-center space-x-2">
               <span class="text-lg font-semibold">Systems Engineer</span>
               <span class="italic">Glesec</span>
             </div>
-            <p class="font-thin">April 2021 - Present</p>
+            <p class="font-thin">April 2021 - May 2022</p>
             <p class="italic">Designed, developed, and maintained systems and services for both internal and client use</p>
           </div>
           <div>

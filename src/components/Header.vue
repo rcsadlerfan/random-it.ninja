@@ -12,9 +12,9 @@
                     <a href="https://twitter.com/RandomITNinja1" target="_blank">
                         <AtSymbolIcon class="header-icon" />
                     </a>
-                    <a href="/docs/Resume.pdf" target="_blank">
+                    <!-- <a href="/docs/Resume.pdf" target="_blank">
                         <DocumentIcon class="header-icon" />
-                    </a>
+                    </a> -->
                 </div>
             </div>
         </div>
